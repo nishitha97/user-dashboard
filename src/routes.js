@@ -1,7 +1,7 @@
 import Index from "views/Index.jsx";
-import Profile from "views/examples/Profile.jsx";
-import Register from "views/examples/Register.jsx";
-import Login from "views/examples/Login.jsx";
+import Profile from "views/pages/Profile.jsx";
+import Register from "views/pages/Register.jsx";
+import Login from "views/pages/Login.jsx";
 
 var routes = [
     {
